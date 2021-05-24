@@ -1,7 +1,7 @@
 {
 	"name": "inventory-project",
 	"author": "Nicholas Ikechukwu",
-	"description": "A Test Project on react proficiency. A project designed as an inventory management system.",
+	"description": "A Test Project on react proficiency. A project designed and built as an inventory management system.",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
