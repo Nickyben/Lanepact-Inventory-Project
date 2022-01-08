@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React Application 
 
 The unfinished projet can be previewed at: https://nicks-lanepact-project.netlify.app/.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
